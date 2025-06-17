@@ -3,7 +3,7 @@ package Assignments.MethodPractices.Level1;
 import java.util.Scanner;
 
 public class trignometric {
-     public static double[] calculateTrigonometricFunctions(double angle) {
+     public static double[] calculate(double angle) {
         double radians = Math.toRadians(angle);
         double[] results = new double[3];
 
@@ -18,7 +18,7 @@ public class trignometric {
         Scanner sc = new Scanner(System.in);
         double angle = sc.nextDouble();
 
-        double[] trigValues = calculateTrigonometricFunctions(angle);
+        double[] trigValues = calculate(angle);
 
         System.out.printf("sin(%.2f°) = %.4f\n", angle, trigValues[0]);
         System.out.printf("cos(%.2f°) = %.4f\n", angle, trigValues[1]);
