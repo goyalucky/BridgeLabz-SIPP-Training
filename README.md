@@ -1,105 +1,90 @@
-# BridgeLabz-SIPP-Training
+# BridgeLabz SIPP Training Program
 
-This repository showcases my learning journey through various modules that cover the essentials of Core Java, DSA, OOPs, Searching, Sorting, and Scenario-based Problem Solving. Below is a detailed summary of the concepts covered and skills gained.
+Welcome to my **BridgeLabz-SIPP-Training** repository! This project documents my learning journey through structured modules in **Core Java**, **Data Structures & Algorithms (DSA)**, **OOPs**, **Searching**, **Sorting**, and **Scenario-Based Problem Solving**.
 
-📌 Modules Covered
-☕ Core Java
-Mastered the fundamentals of Java: variables, data types, operators, and control flow statements (if-else, loops, switch).
+This repository highlights the concepts I've mastered, hands-on implementations, and real-world problem-solving experiences.
 
-Developed strong understanding of Object-Oriented Programming (OOP) concepts:
+---
 
-1) Encapsulation
-2) Inheritance
-3) Polymorphism
-4) Abstraction
+## 📌 Modules Covered
 
-Worked extensively with Strings and Arrays.
+### ☕ Core Java
+- Gained a strong foundation in **variables**, **data types**, **operators**, and **control flow statements** (`if-else`, `loops`, `switch`).
+- Developed a deep understanding of **Object-Oriented Programming (OOP)** principles:
+  - 🔹 Encapsulation  
+  - 🔹 Inheritance  
+  - 🔹 Polymorphism  
+  - 🔹 Abstraction  
+- Worked extensively with **Strings** and **Arrays**.
+- Solved real-world problems using **Java’s built-in functions**, enhancing code fluency and debugging skills.
 
-Solved real-world problems and enhanced coding fluency using Java’s built-in functions.
+---
 
-📚 Data Structures & Algorithms (DSA)
-Gained theoretical and practical knowledge of:
+### 📚 Data Structures & Algorithms (DSA)
+- Learned core data structures: **HashMap**, **HashSet**, **LinkedList**, **Stack**, **Queue**.
+- Applied these structures in solving computational problems effectively.
+- Gained knowledge of **Algorithm Analysis** and **Big O Notation** for writing optimized, scalable code.
+- Created a dedicated 📁 `Scenario/` folder with real-life problems based on these concepts.
 
-HashMap, HashSet, LinkedList, Stack, and Queue
+---
 
-Learned to solve computational problems using these data structures.
+### 🔄 Object-Oriented Programming (OOP) in Java
+- Practiced and implemented OOP principles:
+  - Encapsulation, Inheritance, Polymorphism, Abstraction
+- Designed models using:
+  - 📐 Class Diagrams  
+  - 🧩 Object Diagrams  
+  - 🔁 Sequence Diagrams
+- Implemented **interface-based** and **modular designs** to ensure reusable, clean architecture.
 
-Studied Algorithm Runtime Analysis and Big O Notation for writing efficient, optimized code.
+---
 
-Created a dedicated 📁 "Scenario" folder to solve real-life problem statements, applying DSA concepts effectively.
+### 🔍 Searching Algorithms
+- Implemented and analyzed:
+  - **Linear Search** – Time Complexity: `O(n)`
+  - **Binary Search** – Time Complexity: `O(log n)`
+- Understood the **use-cases and efficiency trade-offs** for each method.
 
-🔄 OOPs (Object-Oriented Programming in Java)
-Studied and implemented:
+---
 
-1) Encapsulation
-2) Inheritance
-3) Polymorphism
-4) Abstraction
+### 🧮 Sorting Algorithms
+Implemented and studied the following sorting techniques:
 
-Practiced Object Modeling using:
+| Algorithm        | Time Complexity (Best/Average/Worst) | Space Complexity | Use Case |
+|------------------|--------------------------------------|------------------|----------|
+| Bubble Sort      | O(n) / O(n²) / O(n²)                 | O(1)             | Simple, small datasets |
+| Selection Sort   | O(n²) / O(n²) / O(n²)                | O(1)             | When memory writes are costly |
+| Insertion Sort   | O(n) / O(n²) / O(n²)                 | O(1)             | Nearly sorted data |
+| Merge Sort       | O(n log n) / O(n log n) / O(n log n) | O(n)             | Stable, large datasets |
+| Quick Sort       | O(n log n) / O(n log n) / O(n²)      | O(log n)         | Fast, average-case efficient |
+| Heap Sort        | O(n log n) / O(n log n) / O(n log n) | O(1)             | Optimal space, not stable |
+| Counting Sort    | O(n + k)                             | O(k)             | Integers in a known range |
 
-Class Diagrams
+- Gained the ability to **choose the optimal sorting technique** based on performance needs and data size.
 
-Object Diagrams Sequence Diagrams Implemented interface-based design for modular and reusable code.
+---
 
-🔍 Searching Algorithms
-Learned and implemented:
+## 🛠 Workshop – Scenario-Based Problem Solving
 
-Linear Search – Time Complexity: O(n)
+Applied Core Java, OOP, DSA, Searching, and Sorting to tackle real-world problems. These scenarios helped solidify my conceptual understanding through implementation of:
 
-Binary Search – Time Complexity: O(log n)
+- ✅ Arrays & Strings  
+- ✅ HashMap & HashSet  
+- ✅ Stack & Queue  
+- ✅ LinkedList  
+- ✅ Interface-based modular design  
 
-Understood the real-world applications of each and identified scenarios where each is most suitable.
+---
 
-🧮 Sorting Algorithms
-Implemented and analyzed:
+## 🔧 Featured Problem Scenarios
 
-Bubble Sort
+> Real-life use cases solved as part of the workshop:
 
-Selection Sort
+1. 🧾 **Billing System**  
+2. ☕ **Coffee Counter Chronicles**  
+3. 🚗 **Garage Management System**  
+4. 🌐 **Browser History Navigation**  
+5. 🎵 **Music Playlist Queue**  
+6. 🛒 **Online Store Billing System**
 
-Insertion Sort
-
-Merge Sort
-
-Quick Sort
-
-Heap Sort
-
-Counting Sort
-
-Understood each algorithm’s:
-
-Use case
-
-Time and space complexity
-
-Gained ability to choose the best sorting method based on input size and performance needs.
-
-🛠 Workshop (Scenario-Based Problem Solving)
-Solved case study and real-world scenarios using combined knowledge of:
-
-Core Java
-
-OOPs
-
-DSA
-
-Searching & Sorting
-
-Applied concepts like HashMap, HashSet, Array, String, Stack, Queue, LinkedList.
-
-🔧 Featured Problem Scenarios:
-1)🧾 Billing System
-
-2) ☕ Coffee Counter Chronicles
-
-3) 🚗 Garage Management System
-
-4) 🌐 Browser History Navigation
-
-5) 🎵 Music Playlist Queue
-
-6) 🛒 Online Store Billing System
-
-
+Each problem was tackled using Java and relevant DSA/OOP concepts, promoting practical thinking and software design skills.
