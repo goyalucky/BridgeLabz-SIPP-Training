@@ -8,13 +8,10 @@ Mastered the fundamentals of Java: variables, data types, operators, and control
 
 Developed strong understanding of Object-Oriented Programming (OOP) concepts:
 
-Encapsulation
-
-Inheritance
-
-Polymorphism
-
-Abstraction
+1) Encapsulation
+2) Inheritance
+3) Polymorphism
+4) Abstraction
 
 Worked extensively with Strings and Arrays.
 
@@ -34,23 +31,16 @@ Created a dedicated 📁 "Scenario" folder to solve real-life problem statements
 🔄 OOPs (Object-Oriented Programming in Java)
 Studied and implemented:
 
-Encapsulation
-
-Inheritance
-
-Polymorphism
-
-Abstraction
+1) Encapsulation
+2) Inheritance
+3) Polymorphism
+4) Abstraction
 
 Practiced Object Modeling using:
 
 Class Diagrams
 
-Object Diagrams
-
-Sequence Diagrams
-
-Implemented interface-based design for modular and reusable code.
+Object Diagrams Sequence Diagrams Implemented interface-based design for modular and reusable code.
 
 🔍 Searching Algorithms
 Learned and implemented:
