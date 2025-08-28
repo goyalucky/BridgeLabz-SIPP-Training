@@ -1,0 +1,15 @@
+Validate a Username - ^[A-Za-z][A-Za-z0-9_]{4,14}$
+Validate a License Plate Number - ^[A-Z]{2}[0-9]{4}$
+Validate a Hex Color Code - ^#[0-9A-Fa-f]{6}$
+Extract All Email Addresses from a Text - [A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}
+Extract All Capitalized Words - \b[A-Z][a-zA-Z]*\b
+Extract Dates in dd/mm/yyyy Format - \b\d{2}\/\d{2}\/\d{4}\b
+Extract Links (URLs) - https?:\/\/[^\s]+
+Replace Multiple Spaces with a Single Space - \s+
+Censor Bad Words - \b(damn|stupid)\b
+Validate an IPv4 Address - ^(25[0-5]|2[0-4][0-9]|1?[0-9]{1,2})(\.(25[0-5]|2[0-4][0-9]|1?[0-9]{1,2})){3}$
+Validate a Credit Card Number - ^(4[0-9]{15}|5[0-9]{15})$
+Extract Programming Language Names - \b(Java|Python|JavaScript|Go)\b
+Extract Currency Values - \$?\d+(\.\d{2})?
+Find Repeating Words in a Sentence - \b(\w+)\s+\1\b
+Validate a Social Security Number (SSN) - ^\d{3}-\d{2}-\d{4}$
